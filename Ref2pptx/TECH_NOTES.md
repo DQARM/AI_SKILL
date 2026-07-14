@@ -1,6 +1,6 @@
 # TECH_NOTES — pptx(OOXML)技術備忘(ref2pptx 附錄)
 
-<!-- version: 2026-07-12.02 -->
+<!-- version: 2026-07-15.02 -->
 版本:`2026-07-12.02`(與 `SKILL.md` 的 `version` 同步——每次改動任一檔,兩檔版號一起更新成當天日期 + 當日流水號 `YYYY-MM-DD.NN`)。
 
 本檔集中 `SKILL.md` 引用的 **pptx XML 層技術細節**。規則與流程在 `SKILL.md`;這裡回答「怎麼在 XML 層正確做到」。每一節都對應 SKILL.md 的一條規則,動手寫 XML / 程式產出 / 做程式化 QA 之前先讀對應小節。
